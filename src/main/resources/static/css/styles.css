@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+.tituloIndex
+{
+	color: #9304f3;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+.subtituloIndex
+{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.tituloDash
+{
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+.textoDash
+{
+	margin-bottom: 15px;
+}
+
+.tituloBook
+{
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+
+.tituloShow
+{
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+.tituloCursiva
+{
+	font-style: italic;
+}
+
+.letraRoja
+{
+	color:#bf3641;
+}
+
+.letraMorada
+{
+	color:#8c1ceb;
+}
+
+.letraVerde
+{
+	color:#17982d;
+}
+
+.contenedorShow
+{
+	margin-left: 25px;
+}
+
+.contThoughts
+{
+	padding: 20px 0px 20px 0px;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	margin-top:30px;
+	margin-bottom: 20px;
+}
+
+.boton
+{
+	border: 2px solid black;
+	background-color: #edf0ef;
+}
+
+.colorFondo
+{
+	background-color: #dddddd;
+}
